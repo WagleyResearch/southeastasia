@@ -1,2 +1,1 @@
-This is a second test file again, testing
-
+<?php echo "Does this work?"; ?>
