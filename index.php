@@ -6,9 +6,11 @@
     </head>
     <body>
         <?php
-        include 'vod.php';
+        include 'voc.php';
         echo "<hr>";
         include 'burma.php';
+        echo "<hr>";
+        include 'javawars.php';
         echo "<hr>";
         ?>
     </body>
