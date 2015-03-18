@@ -6,12 +6,20 @@
     </head>
     <body>
         <?php
+<<<<<<< HEAD
         include 'voc.php';
+=======
+	echo "<div>";
+        include 'voc.php';
+	echo "</div>";
+>>>>>>> origin/master
         echo "<hr>";
+	echo "<div>";
         include 'burma.php';
-        echo '<div style="clear: both;"<hr></div>';
+        echo '<hr>';
         include 'javawars.php';
         echo "<hr>";
+	echo "</div>";
         ?>
     </body>
 </html>
