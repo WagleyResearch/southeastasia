@@ -1,1 +1,1 @@
-Dutch East India Company
+Dutch East India Company (VOD)
