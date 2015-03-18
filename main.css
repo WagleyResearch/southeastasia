@@ -2,8 +2,14 @@ body {
     font-size: 150%;
 }
 img.right {
+    width:30%;
+    /* you can use % */
+    height: auto;
     float: right;
 }
 img.left {
+    width:40%;
+    /* you can use % */
+    height: auto;
     float: left;
 }
