@@ -16,6 +16,8 @@ error_reporting(E_ALL);
         echo "<hr>";
 	echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'burma.php';
+        echo '<hr>';
+        include 'javawars.php';
         echo "<hr>";
 	echo "</div>";
         ?>
