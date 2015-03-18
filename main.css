@@ -1,6 +1,10 @@
 body {
-    font-size: 150%;
+    font-size: 125%;
+}
+.section {
+    position: relative;
 }
 .image {
     padding: 5px 25px 25px 25px;
+    /* position: relative; */
 }
