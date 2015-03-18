@@ -3,6 +3,7 @@ body {
 }
 .section {
     position: relative;
+    height: 100%;
 }
 .image {
     padding: 5px 25px 25px 25px;

@@ -9,7 +9,7 @@
         include 'voc.php';
         echo "<hr>";
         include 'burma.php';
-        echo "<hr>";
+        echo '<div style="clear: both;"<hr></div>';
         include 'javawars.php';
         echo "<hr>";
         ?>
