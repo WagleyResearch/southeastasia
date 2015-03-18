@@ -13,13 +13,19 @@ error_reporting(E_ALL);
 	echo '<div style="margin-bottom: 10px;">';
         include 'voc.php';
 	echo "</div>";
-        echo '<div style="display: clear;"><hr></div>';
+        echo '<hr>';
 	echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'burma.php';
-        echo '<div style="display: clear;"><hr></div>';
+    echo "</div>";
+        echo '<hr>';
+    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'javawars.php';
-        echo "<hr>";
 	echo "</div>";
+        echo "<hr>";
+    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
+        include 'afghanistan.php';
+    echo "</div>";
+        echo "<hr>";
         ?>
     </body>
 </html>
