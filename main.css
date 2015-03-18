@@ -1,3 +1,14 @@
+body {
+    font-size: 150%;
+}
 image {
-    width: 60%;
+    width:40%; /* you can use % */
+    height: auto;
+    font-size: 40%;
+}
+.right {
+    float: right;
+}
+.left {
+    float: left;
 }
