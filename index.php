@@ -6,14 +6,14 @@
     </head>
     <body>
         <?php
-	echo "<div>
+	echo "<div>";
         include 'voc.php';
-	echo "</div>"
+	echo "</div>";
         echo "<hr>";
-	echo "<div>
+	echo "<div>";
         include 'burma.php';
         echo "<hr>";
-	echo "</div>"
+	echo "</div>";
         ?>
     </body>
 </html>
