@@ -26,6 +26,14 @@ error_reporting(E_ALL);
         include 'afghanistan.php';
     echo "</div>";
         echo "<hr>";
+    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
+        include 'siam.php';
+    echo "</div>";
+        echo "<hr>";
+    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
+        include 'biblio.php';
+    echo "</div>";
+        echo "<hr>";
         ?>
     </body>
 </html>
