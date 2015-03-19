@@ -1,20 +1,25 @@
 body {
     font-size: 125%;
 }
-div {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
 hr {
     width: 90%;
-}
-section {
-    /* position: relative; */
-    /* height: 100%; */
-    float: left;
-    margin: 0px 50px 50px; /* No margin on top, the <h2> tag seems to automatically do this. */
 }
 .image {
     padding: 5px 5px 5px 5px;
     /* position: relative; */
+}
+.main_header { /*For Header Sizing*/
+    width:  100%;
+}
+.main_content {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.sub_content {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
 }

@@ -1,4 +1,4 @@
-<section>
+<div class="main_content">
     <h2>Burma</h2>
     <div class="image">
         <img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Location_Burma_%28Myanmar%29_ASEAN.svg/1200px-Location_Burma_%28Myanmar%29_ASEAN.svg.png" alt="Location of &nbsp;Burma&nbsp;&nbsp;(green)in ASEAN&nbsp;&nbsp;(dark grey)&nbsp; –&nbsp; [Legend]">
@@ -7,5 +7,7 @@
     <div class="image">
         <img width="10%" src="http://www.aungsan.com/images/AungSan1gs.jpg">
     </div>
+    <div class="sub_content">
     <p>Aung San was a young law student in Burma, who in 1836 left his classes to be more involved with politics. He was against the British, and their imperialist mentality. He joined the Dobama Asiayone (Our Burma Union) as a general secretary, and helped to organize strikes across the country.</p>
-</section>
+    </div>
+</div>
