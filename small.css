@@ -4,6 +4,17 @@ body {
 hr {
     width: 90%;
 }
+.header {
+    text-align: center;
+}
+.header_fixed {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    top: 0px;
+    padding-bottom: 5%;
+}
 .image {
     padding: 1% 1% 1% 1%;
 }
@@ -22,9 +33,12 @@ hr {
     margin-left: auto;
     margin-right: auto;
 }
+.main_content_img {
+    width: 90%;
+}
 .small_image {
-    width: 30%;
+    width: 21%;
 }
 .medium_image{
-    width: 60%;
+    width: 42%;
 }
