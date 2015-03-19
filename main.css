@@ -1,6 +1,9 @@
 body {
     font-size: 125%;
 }
+.header {
+    text-align: center;
+}
 hr {
     width: 90%;
 }
