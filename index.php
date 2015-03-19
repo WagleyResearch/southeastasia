@@ -11,6 +11,9 @@ error_reporting(E_ALL);
     <body>
         <?php
 	echo '<div style="margin-bottom: 10px;">';
+        include 'se.php';
+	echo '</div>';
+	echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'voc.php';
 	echo '</div>';
         echo '<hr>';
