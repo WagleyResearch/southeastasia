@@ -10,32 +10,18 @@ error_reporting(E_ALL);
     </head>
     <body>
         <?php
-	echo '<div style="margin-bottom: 10px;">';
         include 'se.php';
-	echo '</div>';
-	echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'voc.php';
-	echo '</div>';
         echo '<hr>';
-	echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'burma.php';
-    echo '</div>';
         echo '<hr>';
-    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'javawars.php';
-	echo '</div>';
         echo '<hr>';
-    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'afghanistan.php';
-    echo '</div>';
         echo '<hr>';
-    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'siam.php';
-    echo '</div>';
         echo '<hr>';
-    echo '<div style="margin-top: 10px; margin-bottom: 10px;">';
         include 'biblio.php';
-    echo '</div>';
         echo '<hr>';
         ?>
     </body>
