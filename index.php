@@ -6,7 +6,8 @@ error_reporting(E_ALL);
 <html>
     <head>
         <title>An overview of imperialism in Southeast Asia</title>
-        <link rel="stylesheet" type="text/css" href="main.css">
+        <link rel="stylesheet" media="screen and (max-width: 900px)" type="text/css" href="small.css">
+        <link rel="stylesheet" media="screen and (min-width: 901px)" type="text/css" href="main.css">
     </head>
     <body>
         <?php

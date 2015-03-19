@@ -22,3 +22,9 @@ hr {
     margin-left: auto;
     margin-right: auto;
 }
+.small_image {
+    width: 30%;
+}
+.medium_image{
+    width: 60%;
+}
