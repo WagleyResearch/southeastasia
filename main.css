@@ -1,6 +1,9 @@
 body {
     font-size: 125%;
 }
+hr {
+    width: 90%;
+}
 section {
     /* position: relative; */
     /* height: 100%; */
@@ -10,7 +13,4 @@ section {
 .image {
     padding: 5px 5px 5px 5px;
     /* position: relative; */
-}
-hr {
-    width: 90%;
 }
