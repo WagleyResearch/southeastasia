@@ -5,8 +5,12 @@ body {
     /* position: relative; */
     /* height: 100%; */
     float: left;
+    margin: 0px 50px 0px; /* No margin on top and bottom; 50px on both sides */
 }
 .image {
     padding: 5px 25px 25px 25px;
     /* position: relative; */
+}
+hr {
+    width: 90%;
 }
