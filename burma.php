@@ -9,6 +9,6 @@
         <div class="leftimage" style="max-width: 15%;">
             <img src="/images/aungsan.jpg" alt="Picture of Aung San">
         </div>
-    <p>Aung San was a young law student in Burma, who in 1836 left his classes to be more involved with politics. He was against the British, and their imperialist mentality. He joined the Dobama Asiayone (Our Burma Union) as a general secretary, and helped to organize strikes across the country.<br><strong>This is pretty much just a test to show Ben how I think subcontent should work. Of course we can change the border and stuff, but this is scalable, still has margins, and catches the eye.</strong></p>
+        <p>Aung San was a young law student in Burma, who in 1836 left his classes to be more involved with politics. He was against the British, and their imperialist mentality. He joined the Dobama Asiayone (Our Burma Union) as a general secretary, and helped to organize strikes across the country.<br><strong>This is pretty much just a test to show Ben how I think subcontent should work. Of course we can change the border and stuff, but this is scalable, still has margins, and catches the eye.</strong></p>
     </div>
 </div>
