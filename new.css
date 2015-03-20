@@ -3,10 +3,10 @@ body {
 }
 .header {
     text-align: center;
+    width: 100%; /*For Header Sizing*/
 }
 .header_fixed {
     position: fixed;
-    text-align: center;
     width: 100%;
     height: 5%;
     background-color: white;
@@ -40,10 +40,6 @@ hr {
 }
 .rightimage img {
     max-width: 100%;
-}
-}
-.main_header { /*For Header Sizing*/
-    width:  100%;
 }
 .main_content {
     width: 80%;
