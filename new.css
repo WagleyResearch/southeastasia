@@ -22,6 +22,7 @@ body {
 }
 hr {
     width: 90%;
+    margin-top: 2%;
 }
 .header_main_content {
     max-width: 100%;
