@@ -8,9 +8,9 @@ body {
     background-size: 90% 90%;
     background-attachment: fixed;
     background-position: center bottom;
-    background-position: 50% 230%;
+    background-position: 50% 200%;
     min-height: 40vw;
-    max-height: 100%;
+    max-height: 100vw;
 }
 .header_fixed {
     position: fixed;
@@ -18,11 +18,11 @@ body {
     height: 5%;
     background-color: white;
     top: 0px;
-    padding-bottom: 5%;
+    padding-bottom: 4%;
 }
 hr {
     width: 90%;
-    margin-top: 2%;
+    margin-top: 3%;
 }
 .header_main_content {
     max-width: 100%;
