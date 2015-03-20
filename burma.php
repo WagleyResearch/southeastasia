@@ -1,6 +1,6 @@
 <div class="main_content">
     <h2>Burma</h2>
-    <div class="rightimage" style="width: 30%;">
+    <div class="rightimage" style="max-width: 30%;">
         <img src="/images/burma.png" alt="Location of &nbsp;Burma&nbsp;&nbsp;(green)in ASEAN&nbsp;&nbsp;(dark grey)&nbsp; â€“&nbsp; [Legend]">
     </div>
     <p>A &ldquo;series of monarchs&rdquo; tried to take control of Burma. In the 1800s, the country had become very unstable, and Britain took advantage of this by trying to take over the region. After three wars over 60 years, Britain finally took control of the country, and annexed it to be a part of British India. Britain then only favored some of the native groups in Burma, and introduced many of their own traditions and customs. This harshly weakened the Burmese culture.</p>

@@ -8,6 +8,7 @@ body {
     background-size: 90% 90%;
     background-attachment: fixed;
     background-position: center bottom;
+    background-position: 50% 230%;
     min-height: 40vw;
     max-height: 100%;
 }
