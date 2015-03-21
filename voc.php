@@ -5,7 +5,7 @@
         <img src="images/Dutch_VOC_ships_in_Chittagong_or_Arakan.jpg">
     </div>
     <p></p>
-    <div class="image" style="float: right;">
+    <!-- <div class="image" style="float: right;">
         <img style="" src="">
-    </div>
+    </div> -->
 </div>
