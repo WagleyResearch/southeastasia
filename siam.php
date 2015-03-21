@@ -1,4 +1,7 @@
 <div class="main_content">
     <h2>Siam</h2>
-    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+    <div class="rightimage" style="max-width: 30%;">
+        <img src="/images/siam.png" alt="Location of &nbsp;Siam&nbsp;&nbsp;(green)in ASEAN&nbsp;&nbsp;(dark grey)&nbsp; â€“&nbsp; [Legend]">
+    </div>
+    <p>Lay between british controlled Burma and French controlled Indo-China. Both countries tried to prevent each other to gain control over Saim. King Mongkut and his son Chulalongkorn tried to stay a neutral zone between the two powers. To do this, they developed schools, reformed the legal system, and reorganized the government. They also built telegraph systems, and railroads and also abolished slavery.  </p>
 </div>

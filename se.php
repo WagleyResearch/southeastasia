@@ -6,4 +6,5 @@
         How imperialism affected different parts of Southeast Asia<br>
         <i>By Ben Wagley, Jacob Hall, and Kennan Oizumi</i>
     </div>
+    <div class="header_background"></div>
 </div>

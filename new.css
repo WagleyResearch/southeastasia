@@ -3,33 +3,35 @@ body {
 }
 .header {
     text-align: center;
-    background-image: url("images/se.png");
-    background-repeat: no-repeat;
-    background-size: 90% auto;
-    background-attachment: fixed;
-    background-position: center top 50% -800%;
-    min-height: 40vw;
-    height: 100vh;
-    max-height: 100vw;
 }
 .header_fixed {
     position: fixed;
     width: 100%;
-    height: 5%;
+    height: 15%;
     background-color: white;
     top: 0;
-    padding-bottom: 4%;
+    /*padding-bottom: 4%; */
+}
+.header_main_content {
+    max-width: 100%;
+    background-color: white;
+    height: 8%;
+    padding-top: 7%;
+    padding-bottom: 2%;
+}
+.header_background {
+    background-image: url("images/se.png");
+    background-repeat: no-repeat;
+    background-size: 90% auto;
+    background-attachment: fixed;
+    background-position: top center;
+    height: calc((100vw * 5) / 8);
+    max-height: 70vh;
 }
 hr {
     clear: both;
     width: 90%;
     margin-top: 3%;
-}
-.header_main_content {
-    max-width: 100%;
-    background-color: white;
-    padding-top: 7%;
-    padding-bottom: 2%;
 }
 .image { /* For images that are not floated */
     padding: 1%;
