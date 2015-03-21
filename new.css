@@ -24,7 +24,7 @@ body {
     background-repeat: no-repeat;
     background-size: 90% auto;
     background-attachment: fixed;
-    background-position: top center;
+    background-position: center center;
     height: calc((100vw * 5) / 8);
     max-height: 70vh;
 }
