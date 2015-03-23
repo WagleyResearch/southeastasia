@@ -14,6 +14,6 @@
         <div class="leftimage" style="max-width: 15%;">
             <img src="/images/chulalongkorn.jpeg" alt="Picture of Aung San">
         </div>
-        <p><strong>Chulalongkorn</strong> (Rama V) he was one of the greatest monarchs in Siamese history. When Siam was threatened by western modernization, his policies and acts saved Siam from Colonization.</p>
+        <p><strong>Chulalongkorn</strong> (Rama V) was one of the greatest monarchs in Siamese history. When Siam was threatened by western modernization, his policies and acts saved Siam from Colonization.</p>
     </div>
 </div>
