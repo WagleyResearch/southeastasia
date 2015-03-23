@@ -24,8 +24,8 @@ body {
     background-size: 90% auto;
     background-attachment: fixed;
     background-position: center center;
-    height: calc((100vw * 5) / 8);
-    max-height: 70vh;
+    max-height: calc((100vw * 5) / 8);
+    height: 100vh;
 }
 hr {
     clear: both;
