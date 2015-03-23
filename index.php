@@ -11,7 +11,6 @@ error_reporting(E_ALL);
     <body>
         <?php
         include 'se.php';
-        echo '<div style="position: inline-block;" id="first"></div>';
         include 'voc.php';
         echo '<hr>';
         include 'burma.php';
