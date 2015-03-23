@@ -5,7 +5,15 @@
         <img src="images/Dutch_VOC_ships_in_Chittagong_or_Arakan.jpg">
     </div>
     <p></p>
-    <!-- <div class="image" style="float: right;">
-        <img style="" src="">
-    </div> -->
+    <div class="sub_content">
+        The area that the Dutch East India Company colonized for trading was the
+    Dutch East Indies, It became called the Dutch East Indies when the Dutch East India
+Company was dismantled and the Dutch government took control of the region. In
+1949, after many years of protest, the Dutch government recognized it as a sovereign nation.  This region produced many cash crops that the Dutch East India Company could trade, such as coffee, pepper, nutmeg, cloves, tea, cotton, sugar, cinnamon, and ginger.
+    </div>
+    <div class="sub_content">
+        The Anglo dutch treaty of 1824 was a treaty that allowed the British to control
+singapore, on the terms that they would now conduct any trading or diplomacy with
+nations south of singapore, and the Netherlands would not conduct trade in the Malay peninsula. 
+    </div>
 </div>
