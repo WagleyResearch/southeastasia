@@ -27,6 +27,8 @@ error_reporting(E_ALL);
         echo '<hr>';
         include 'philippines.php';
         echo '<hr>';
+        include 'review.php';
+        echo '<hr>';
         include 'biblio.php';
         echo '<hr>';
         ?>
