@@ -21,6 +21,6 @@ The next of these wars started in 1853 and once again was for control over Burme
     </div>
     <div class="sub_content">
         <h3>Karen People</h3>
-        <p>The Karen people were</p>
+        <p>The Karen people were an ethnic group of people in the Burmese region. When Britain imperialism started spreading in Southeast Asia, many Baptist missionaries converted many Karen people to Christianity. When the British took control of Burma, they often favored the Karens for military and local administration jobs.</p>
     </div>
 </div>
