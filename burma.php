@@ -18,5 +18,9 @@
 over control of the region.  As Burma expanded its borders, they pushed up against
 the British East India Company.  This resulted in a war for power of the region.  The British won the first of the wars, however the cost of the wars resulted in the British East India Company losing its power over India. The first Anglo-Burmese war lasted from 1824-1826.
 The next of these wars started in 1853 and once again was for control over Burmese territory.  The British won this war in 1878.  The third and final war started in november 1884 and lasted 22 days and resulted in British control of all of Burma, finally annexing the once independent country.</p>
-  </div>
+    </div>
+    <div class="sub_content">
+        <h3>Karen People</h3>
+        <p>The Karen people were</p>
+    </div>
 </div>
