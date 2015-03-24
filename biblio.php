@@ -2,6 +2,7 @@
     <h2>Bibliography</h2>
     <ol style="line-height: 150%;">
         <li><a href="http://cfob.org/HistoryofBurma/historyOfBurma.shtml">http://cfob.org/HistoryofBurma/historyOfBurma.shtml</a></li>
+        <li> <a href="https://en.wikipedia.org/wiki/British_rule_in_Burma">https://en.wikipedia.org/wiki/British_rule_in_Burma</a></li>
         <li><a href="http://en.wikipedia.org/wiki/Aung_San">http://en.wikipedia.org/wiki/Aung_San</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Java_War">https://en.wikipedia.org/wiki/Java_War</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Invasion_of_Java_%281811%29">https://en.wikipedia.org/wiki/Invasion_of_Java_%281811%29</a></li>
