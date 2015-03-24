@@ -23,9 +23,8 @@ body {
     background-repeat: no-repeat;
     background-size: 90% auto;
     background-attachment: fixed;
-    background-position: center center;
-    max-height: calc((100vw * 5) / 8);
-    height: 100vh;
+    background-position: bottom center;
+    height: 75vh;
 }
 hr {
     clear: both;
