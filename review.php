@@ -13,7 +13,7 @@ Dutch East Indies:</p>
 Javanese Wars:</p>
    <p style="text-indent: 5em;"> T/F    Wars with the Dutch for Javanese Independence. </p>
    <p style="text-indent: 5em;"> T/F    Prince Diponegoro was one of the leaders.</p>
-   <p style="text-indent: 5em;"> T/F    Resulted in Heavy Casualties on both sides.</p>
+   <p style="text-indent: 5em;"> T/F    Resulted in less than 100,000 Javanese casualies.</p>
 Singapore:</p>
    <p style="text-indent: 5em;"> T/F      A Region Originally Controlled by the Dutch</p>
    <p style="text-indent: 5em;"> T/F    The Island had not yet been colonized by the Dutch</p>

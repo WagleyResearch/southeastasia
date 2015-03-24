@@ -1,6 +1,6 @@
 <div class="main_content">
     <h2>Javanese Wars</h2>
-    <p>In the 1800s, Java fought in a series of wars for independence, losing all of them. most notably the Java War (1741-43) and the Invasion of Java, in 1811. The former was against the Dutch, who in 1741 led an attack on Java to try to gain control of the region. At first the Java forces led by Prince Diponegoro were winning, but after more battles the Dutch were victorious. The war lasted for three years, and both sides suffered many losses.</p>
+    <p>In the 1800s, Java fought in a series of wars for independence, losing all of them. most notably the Java War (1741-43) and the Invasion of Java, in 1811. The former was against the Dutch, who in 1741 led an attack on Java to try to gain control of the region. At first the Java forces led by Prince Diponegoro were winning, but after more battles the Dutch were victorious. The war lasted for three years, and both sides suffered many losses, including over 200,000 Javanese casualites.</p>
   <div class="sub_content">
     <div class="leftimage" style="max-width: 15%;">
     <img src="images/Diponegoro.jpg"/>
