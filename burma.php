@@ -11,4 +11,10 @@
         </div>
         <p>Aung San was a young law student in Burma, who in 1836 left his classes to be more involved with politics. He was against the British, and their imperialist mentality. He joined the Dobama Asiayone (Our Burma Union) as a general secretary, and helped to organize strikes across the country.</p>
     </div>
+    <div class="sub_content">
+	There was a series of wars along the western border of Burma with the British
+over control of the region.  As Burma expanded its borders, they pushed up against
+the British East India Company.  This resulted in a war for power of the region.  The British won the first of the wars, however the cost of the wars resulted in the British East India Company losing its power over India. The first Anglo-Burmese war lasted from 1824-1826.
+The next of these wars started in 1853 and once again was for control over Burmese territory.  The British won this war in 1878.  The third and final war started in november 1884 and lasted 22 days and resulted in British control of all of Burma, finally annexing the once independent country.  
+  </div>
 </div>
