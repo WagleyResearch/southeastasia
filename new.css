@@ -65,6 +65,9 @@ hr {
     border: dashed;
     border-color: grey;
 }
+h3 {
+    line-height: 0;
+}
 .sub_content img {
     padding: 1%;
 }
