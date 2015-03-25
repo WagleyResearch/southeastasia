@@ -23,6 +23,8 @@ error_reporting(E_ALL);
         echo '<hr>';
         include 'malaysia.php';
         echo '<hr>';
+        include 'singapore.php';
+        echo '<hr>';
         include 'siam.php';
         echo '<hr>';
         include 'philippines.php';
