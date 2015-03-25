@@ -13,6 +13,7 @@ Dutch East Indies:</p>
 Malaysia:</p>
    <p style="text-indent: 5em;"> During what decade did Britain start to rule Malaysia? </p>
    <p style="text-indent: 5em;"> T/F    Britain added schools, improved transportation, and made other improvements to Malaysia.</p>
+Singapore:</p>
    <p style="text-indent: 5em;"> T/F      A Region Originally Controlled by the Dutch</p>
    <p style="text-indent: 5em;"> T/F    The Island had not yet been colonized by the Dutch</p>
    <p style="text-indent: 5em;"> T/F     Main Export was spices </p>
