@@ -10,11 +10,9 @@ Dutch East Indies:</p>
   <p style="text-indent: 5em;">  T/F    Now is Modern day Indonesia</p>
    <p style="text-indent: 5em;"> T/F    Had a trade Monopoly with the British</p>
    <p style="text-indent: 5em;"> T/F    Exported spices, cotton, and coffee, among other things.</p>
-Javanese Wars:</p>
-   <p style="text-indent: 5em;"> T/F    Wars with the Dutch for Javanese Independence. </p>
-   <p style="text-indent: 5em;"> T/F    Prince Diponegoro was one of the leaders.</p>
-   <p style="text-indent: 5em;"> T/F    Resulted in less than 100,000 Javanese casualies.</p>
-Singapore:</p>
+Malaysia:</p>
+   <p style="text-indent: 5em;"> During what decade did Britain start to rule Malaysia? </p>
+   <p style="text-indent: 5em;"> T/F    Britain added schools, improved transportation, and made other improvements to Malaysia.</p>
    <p style="text-indent: 5em;"> T/F      A Region Originally Controlled by the Dutch</p>
    <p style="text-indent: 5em;"> T/F    The Island had not yet been colonized by the Dutch</p>
    <p style="text-indent: 5em;"> T/F     Main Export was spices </p>

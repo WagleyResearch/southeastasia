@@ -15,7 +15,7 @@ Company was dismantled and the Dutch government took control of the region. In
     <div class="sub_content">
         <h3>Anglo-Dutch Treaty of 1824</h3>
         The Anglo-Dutch Treaty of 1824 was a treaty that allowed the British to control
-singapore, on the terms that they would now conduct any trading or diplomacy with
-nations south of singapore, and the Netherlands would not conduct trade in the Malay peninsula.
+Singapore, on the terms that they would now conduct any trading or diplomacy with
+nations south of Singapore, and the Netherlands would not conduct trade in the Malay peninsula.
     </div>
 </div>
