@@ -2,7 +2,7 @@
     <div class="header_fixed">
         <h1>Southeast Asia</h1>
     </div>
-    <div class="header_main_content">
+    <div class="header_main_content" style="margin-top: 3%;">
         How imperialism affected different parts of Southeast Asia<br>
         <i>By Ben Wagley, Jacob Hall, and Kennan Oizumi</i>
     </div>
