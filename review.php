@@ -18,5 +18,8 @@ Singapore:</p>
    <p style="text-indent: 5em;"> T/F    The Island had not yet been colonized by the Dutch</p>
    <p style="text-indent: 5em;"> T/F     Main Export was spices </p>
   <p style="text-indent: 5em;">  T/F    The British secured trade with the Anglo-Dutch treating.</p>
+Javanese Wars:</p>
+  <p style="text-indent: 5em;">  T/F    Wars with the Dutch for Javanese Independence. </p>
+  <p style="text-indent: 5em;">  T/F    Prince Diponegoro was one of the leaders.</p>
+  <p style="text-indent: 5em;">  T/F    Resulted in Heavy Casualties on both sides.</p>
 </div>
-    <ol>
