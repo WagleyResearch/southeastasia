@@ -21,5 +21,5 @@ Singapore:</p>
 Javanese Wars:</p>
   <p style="text-indent: 5em;">  T/F    Wars with the Dutch for Javanese Independence. </p>
   <p style="text-indent: 5em;">  T/F    Prince Diponegoro was one of the leaders.</p>
-  <p style="text-indent: 5em;">  T/F    Resulted in Heavy Casualties on both sides.</p>
+  <p style="text-indent: 5em;">  T/F    Resulted in less than 100,000 Javanese casualities.</p>
 </div>
